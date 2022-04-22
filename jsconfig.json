@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
+// ./혹은 ../을 찍어서 표현 안해도 되도록 만드는 파일
