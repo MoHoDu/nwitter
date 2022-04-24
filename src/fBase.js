@@ -19,3 +19,4 @@ initializeApp(firebaseConfig);
 
 export const authService = getAuth();
 // firebase의 auth를 사용하기 위해 가져오는 작업
+// ./혹은 ../을 찍어서 표현 안해도 되도록 만드는 파일(-> jsconfig.json)
